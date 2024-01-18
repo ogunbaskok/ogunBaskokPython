@@ -1,0 +1,7 @@
+fieledPrice1 = "Rs. 500"
+fieledPrice2 = "Rs. 400"
+fieldQuantity1 = "1"
+fieldQuantity2 = "1"
+fieldTotal1 = "Rs. 500"
+fieldTotal2 = "Rs. 400"
+productURL = "https://automationexercise.com/products"
