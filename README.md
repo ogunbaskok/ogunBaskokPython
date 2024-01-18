@@ -1,4 +1,4 @@
-Projeyi çektikten sonra importlar çekildikten sonra çalıştırma seçenekleri :
+Projeyi çekildikten sonra çalıştırma seçenekleri :
 
 1-
 
